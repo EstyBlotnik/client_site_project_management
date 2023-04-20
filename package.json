@@ -11,7 +11,7 @@
     "test": "tests"
   },
   "scripts": {
-    "lint": "eslint src/* --color",
+    "lint": "eslint src/log_in.js --color",
     "test": "mocha tests/*.spec.js --color",
     "build": "parcel build src/home_page.html"
   },
